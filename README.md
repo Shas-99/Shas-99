@@ -1,7 +1,6 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shashank Kadam</h1>
-<h3 align="center">A passionate learner from IIT Goa</h3>
+
+<h3 align="left">A passionate learner from IIT Goa</h3>
 
 
 - 👨‍🎓 I’m currently persuing my education at [IIT Goa](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjzrc-G0r_-AhW7XmwGHaDMBroQFnoECAoQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIIT_Goa&usg=AOvVaw1o_Rwr_ufA7OzRbFxTCAP0)
@@ -11,6 +10,7 @@
 - 📫 How to reach me **kadam.ravindra.22031@iitgoa.ac.in**
 
 - ⚡ Fun fact **I'm just a beginner**
+<img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/a8/aa/d4/a8aad4d4bbb92c4ebc3e210640e4d87e.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
