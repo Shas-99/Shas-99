@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="1000" src="https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg">
 <h1 align="center">Hi 👋, I'm Shashank Kadam</h1>
 
 <h3 align="left">A passionate learner from IIT Goa</h3>
