@@ -1,5 +1,6 @@
 <img align="right" alt="Coding" width="1000" src="https://cdn.neowin.com/news/images/uploaded/2021/04/1619644762_github-desktop_story.jpg">
 <h1 align="center">Hi 👋, I'm Shashank Kadam</h1>
+<img src="https://lh3.googleusercontent.com/pw/AJFCJaV9cp0a3IOptVHCtlz80bVXYU7iQ_2KVNwyax2739B7c4joJz9c6J651Fxo-N2e-Kzr5T7ri3SMiVCe6Ge4O42hcPyywODdHgwhqgLCtUWPhcLMSnVWsFBwNcL4XPAGfdSklF08Syox7jQvXh4alAvYYw=w666-h889-s-no?authuser=3" align="right" width="350" alt="me.png" >
 
 <h3 align="left">A passionate learner from IIT Goa</h3>
 
@@ -11,7 +12,7 @@
 - 📫 How to reach me **kadam.ravindra.22031@iitgoa.ac.in**
 
 - ⚡ Fun fact **I'm just a beginner**
-<img align="right" alt="Coding" width="350" src="https://thumbs.gfycat.com/RaggedComposedEastsiberianlaika-max-1mb.gif" >
+<img align="center" alt="Coding" src="https://thumbs.gfycat.com/RaggedComposedEastsiberianlaika-max-1mb.gif" width="200" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
