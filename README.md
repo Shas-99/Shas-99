@@ -5,7 +5,9 @@
 # Hi 👋, I'm Shashank Kadam
 <img src="https://lh3.googleusercontent.com/pw/AJFCJaV9cp0a3IOptVHCtlz80bVXYU7iQ_2KVNwyax2739B7c4joJz9c6J651Fxo-N2e-Kzr5T7ri3SMiVCe6Ge4O42hcPyywODdHgwhqgLCtUWPhcLMSnVWsFBwNcL4XPAGfdSklF08Syox7jQvXh4alAvYYw=w666-h889-s-no?authuser=3" align="right" width="350" alt="me.png" >
 
-### A passionate learner from IIT Goa
+## About myself 
+
+###  A passionate learner from IIT Goa
 
 
 - 👨‍🎓 I’m currently persuing my education at [IIT Goa](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjzrc-G0r_-AhW7XmwGHaDMBroQFnoECAoQAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FIIT_Goa&usg=AOvVaw1o_Rwr_ufA7OzRbFxTCAP0)
