@@ -27,15 +27,15 @@
 
 ## Courses at IIT Goa
 ### Spring-2023
-- [**CS102**](https://clintpgeorge.github.io/cs-102/spring-2023/)
+- [**CS102**](https://clintpgeorge.github.io/cs-102/spring-2023/) ***Software Tools***
    - \-*Dr.Clint P George*
-- **MA103**
+- **MA103** ***Ordinary differential equations***
   - \-*Dr.Soumya Bajpai*
-- **BIO101**
+- **BIO101** ***Introduction to Biology***
      - \-*Dr.Nipa Chongar*
- - **PH102**
+ - **PH102** ***Magnetism***
      - \-*Dr. santosh Kumar*
- - **EE101**
+ - **EE101** ***Electrical***
     - \-*Dr. Bidhan Pramanik*
     
 ## Hobbies and Interests
