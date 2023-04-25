@@ -42,7 +42,7 @@
     - \-*Dr. Bidhan Pramanik*
     
 ## Hobbies and Interests
-- 🥁 I'm a passionate [percussionist](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi3v8DlpMT-AhUxTWwGHYgfDV4QFnoECA0QAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_percussionists&usg=AOvVaw1V3V7ICioNx_DKjHx_YPwY) and have a keen interst in the field of music
+- 🥁 I'm an enthusiastic [percussionist](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi3v8DlpMT-AhUxTWwGHYgfDV4QFnoECA0QAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_percussionists&usg=AOvVaw1V3V7ICioNx_DKjHx_YPwY) and have a keen interest in the field of music
 - I love playing Badmington 🏸 and cricket 🏏 
   - Mumbai Indians supporter
 <img align="center" width="250" src="https://i.pinimg.com/originals/f6/21/e9/f621e9aebd3b49817783ad10e2c4f685.gif" alt="mi" >
